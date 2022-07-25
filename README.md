@@ -16,7 +16,7 @@ Are these similarities detectable using the audio features from Spotify?
 ## Summary of work done so far:
 
 ### Data Collection
-Data from spotify music app
+Data from spotify music app(5200 songs)
 
 ### Data cleaning
 
