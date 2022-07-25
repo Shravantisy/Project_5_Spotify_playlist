@@ -16,34 +16,34 @@ Are these similarities detectable using the audio features from Spotify?
 ## Summary of work done so far:
 
 ### Data Collection
-Data from spotify music app(5200 songs)
+Data from spotify music app (5200 songs)
 
 ### Data cleaning
 
-1.Clean data set
+1. Clean data set
 
-2.drop unused columns
+2. Drop unused columns
 
-3.remove outliers
+3. Remove outliers
 
-4.clean column names
+4. Clean column names
 
 ### Data Scaling methods
 
-1.MinMaxScalar
+1. MinMaxScalar
 
-2.StandardScalar
+2. StandardScalar
 
-3.RobustScaler
+3. RobustScaler
 
 
-### Kmean clustering
+### K-mean clustering
 
-1.Use “Elbow-Method” to define amount of clusters (=playlists)
+1. Use “Elbow-Method” to define amount of clusters (=playlists)
 
-2.Use Silhouette score to decide on best scaler
+2. Use Silhouette score to decide on best scaler
 
-3.Check different song-features for each cluster to name playlists!
+3. Check different song-features for each cluster to name playlists!
 
 
 
