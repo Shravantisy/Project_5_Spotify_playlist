@@ -5,7 +5,7 @@ All about "Unsupervised Machine Learning"
 Music, art concerned with combining vocal or instrumental sounds for beauty of form or emotional expression, usually according to cultural standards of rhythm, melody, and, in most Western music, harmony.
 
 Users can subscribe to their website and listen to these playlists through their preferred Music App (be it Spotify, Apple Music, Youtube Music…).
-Business is scaling up fast and the music experts are slow in creating new playlists.
+Business is scaling up fast and the music experts are slow in creating new playlists. As example, here I am using Spotify.
 
 ##### Are Spotify’s audio features able to identify “similar songs”, as defined by humanly detectable criteria? 
 When you listen to two rock ballads, two operas or two drum & bass songs, you identify them as similar songs?
