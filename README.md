@@ -30,7 +30,7 @@ Data from spotify music app (5200 songs)
 
 ### Data Scaling methods
 
-1. MinMaxScalar
+1. MinMaxScalar 
 
 2. StandardScalar
 
